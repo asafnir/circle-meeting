@@ -1,7 +1,7 @@
 {
-    "domain": "Kollokvium",
+    "domain": "Circle",
     "host": "",
-    "contextPrefix": "kollokvium",
+    "contextPrefix": "circle",
     "serverUrl": "",
     "version": "1.6.9",
     "translateKey": "AIzaSyC79hpb4DKEUgGc6qk3AyTv3ysba2bR_94",

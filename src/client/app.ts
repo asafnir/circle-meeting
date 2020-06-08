@@ -211,7 +211,7 @@ export class App extends AppBase {
      * @memberof App
      */
     updatePageTitle() {
-        document.title = `(${this.numOfPeers + 1}) Kollokvium  - ${this.slug} | A free multi-party video conference for you and your friends!`;
+        document.title = `(${this.numOfPeers + 1}) Circle  - ${this.slug} | A free multi-party video conference for you and your friends!`;
     }
 
     /**
